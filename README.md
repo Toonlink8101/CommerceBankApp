@@ -1,4 +1,5 @@
 Team Name: Front Row
+Semester: Spring 2023
 
 Overview:
 CommerceApp Budget application. How do I work on this project with others?
