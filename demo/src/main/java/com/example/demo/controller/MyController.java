@@ -19,7 +19,7 @@ public class MyController {
     }
     @GetMapping("hello") //@GetMapping refers to URL of the web application
     public String helloJunit(Model model) {
-        model.addAttribute("data","Hello World 123");
+        model.addAttribute("data","Hello World 123 DGK");
         return "hello"; //return refers to the HTML file located in templates
     }
 
